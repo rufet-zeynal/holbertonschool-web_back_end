@@ -1,0 +1,2 @@
+// List document
+db.school.find();
